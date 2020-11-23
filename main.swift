@@ -4,7 +4,7 @@
 //
 //  Created by Ladolado3911 on 11/20/20.
 //
-//
+
 import Foundation
 
 enum Faculty: CaseIterable {
