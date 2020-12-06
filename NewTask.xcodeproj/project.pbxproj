@@ -7,27 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3F5C40322577C75D00B29D1E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F5C40312577C75D00B29D1E /* AppDelegate.swift */; };
-		3F5C40342577C75D00B29D1E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F5C40332577C75D00B29D1E /* SceneDelegate.swift */; };
-		3F5C40362577C75D00B29D1E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F5C40352577C75D00B29D1E /* ViewController.swift */; };
-		3F5C40392577C75D00B29D1E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F5C40372577C75D00B29D1E /* Main.storyboard */; };
-		3F5C403B2577C76100B29D1E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F5C403A2577C76100B29D1E /* Assets.xcassets */; };
-		3F5C403E2577C76100B29D1E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F5C403C2577C76100B29D1E /* LaunchScreen.storyboard */; };
+		3F659117257B6F710077857E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F659116257B6F710077857E /* AppDelegate.swift */; };
+		3F659119257B6F710077857E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F659118257B6F710077857E /* SceneDelegate.swift */; };
+		3F65911B257B6F710077857E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F65911A257B6F710077857E /* ViewController.swift */; };
+		3F65911E257B6F710077857E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F65911C257B6F710077857E /* Main.storyboard */; };
+		3F659120257B6F730077857E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F65911F257B6F730077857E /* Assets.xcassets */; };
+		3F659123257B6F730077857E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F659121257B6F730077857E /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		3F5C402E2577C75D00B29D1E /* Davaleba.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Davaleba.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		3F5C40312577C75D00B29D1E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		3F5C40332577C75D00B29D1E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		3F5C40352577C75D00B29D1E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		3F5C40382577C75D00B29D1E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		3F5C403A2577C76100B29D1E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		3F5C403D2577C76100B29D1E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		3F5C403F2577C76100B29D1E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F659113257B6F710077857E /* NewTask.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NewTask.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3F659116257B6F710077857E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		3F659118257B6F710077857E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		3F65911A257B6F710077857E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		3F65911D257B6F710077857E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		3F65911F257B6F730077857E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3F659122257B6F730077857E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		3F659124257B6F730077857E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		3F5C402B2577C75D00B29D1E /* Frameworks */ = {
+		3F659110257B6F710077857E /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,72 +37,71 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		3F5C40252577C75D00B29D1E = {
+		3F65910A257B6F710077857E = {
 			isa = PBXGroup;
 			children = (
-				3F5C40302577C75D00B29D1E /* Davaleba */,
-				3F5C402F2577C75D00B29D1E /* Products */,
+				3F659115257B6F710077857E /* NewTask */,
+				3F659114257B6F710077857E /* Products */,
 			);
 			sourceTree = "<group>";
-			usesTabs = 0;
 		};
-		3F5C402F2577C75D00B29D1E /* Products */ = {
+		3F659114257B6F710077857E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3F5C402E2577C75D00B29D1E /* Davaleba.app */,
+				3F659113257B6F710077857E /* NewTask.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		3F5C40302577C75D00B29D1E /* Davaleba */ = {
+		3F659115257B6F710077857E /* NewTask */ = {
 			isa = PBXGroup;
 			children = (
-				3F5C40312577C75D00B29D1E /* AppDelegate.swift */,
-				3F5C40332577C75D00B29D1E /* SceneDelegate.swift */,
-				3F5C40352577C75D00B29D1E /* ViewController.swift */,
-				3F5C40372577C75D00B29D1E /* Main.storyboard */,
-				3F5C403A2577C76100B29D1E /* Assets.xcassets */,
-				3F5C403C2577C76100B29D1E /* LaunchScreen.storyboard */,
-				3F5C403F2577C76100B29D1E /* Info.plist */,
+				3F659116257B6F710077857E /* AppDelegate.swift */,
+				3F659118257B6F710077857E /* SceneDelegate.swift */,
+				3F65911A257B6F710077857E /* ViewController.swift */,
+				3F65911C257B6F710077857E /* Main.storyboard */,
+				3F65911F257B6F730077857E /* Assets.xcassets */,
+				3F659121257B6F730077857E /* LaunchScreen.storyboard */,
+				3F659124257B6F730077857E /* Info.plist */,
 			);
-			path = Davaleba;
+			path = NewTask;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		3F5C402D2577C75D00B29D1E /* Davaleba */ = {
+		3F659112257B6F710077857E /* NewTask */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3F5C40422577C76100B29D1E /* Build configuration list for PBXNativeTarget "Davaleba" */;
+			buildConfigurationList = 3F659127257B6F730077857E /* Build configuration list for PBXNativeTarget "NewTask" */;
 			buildPhases = (
-				3F5C402A2577C75D00B29D1E /* Sources */,
-				3F5C402B2577C75D00B29D1E /* Frameworks */,
-				3F5C402C2577C75D00B29D1E /* Resources */,
+				3F65910F257B6F710077857E /* Sources */,
+				3F659110257B6F710077857E /* Frameworks */,
+				3F659111257B6F710077857E /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = Davaleba;
-			productName = Davaleba;
-			productReference = 3F5C402E2577C75D00B29D1E /* Davaleba.app */;
+			name = NewTask;
+			productName = NewTask;
+			productReference = 3F659113257B6F710077857E /* NewTask.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		3F5C40262577C75D00B29D1E /* Project object */ = {
+		3F65910B257B6F710077857E /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1210;
 				LastUpgradeCheck = 1210;
 				TargetAttributes = {
-					3F5C402D2577C75D00B29D1E = {
+					3F659112257B6F710077857E = {
 						CreatedOnToolsVersion = 12.1;
 					};
 				};
 			};
-			buildConfigurationList = 3F5C40292577C75D00B29D1E /* Build configuration list for PBXProject "Davaleba" */;
+			buildConfigurationList = 3F65910E257B6F710077857E /* Build configuration list for PBXProject "NewTask" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,55 +109,55 @@
 				en,
 				Base,
 			);
-			mainGroup = 3F5C40252577C75D00B29D1E;
-			productRefGroup = 3F5C402F2577C75D00B29D1E /* Products */;
+			mainGroup = 3F65910A257B6F710077857E;
+			productRefGroup = 3F659114257B6F710077857E /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3F5C402D2577C75D00B29D1E /* Davaleba */,
+				3F659112257B6F710077857E /* NewTask */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		3F5C402C2577C75D00B29D1E /* Resources */ = {
+		3F659111257B6F710077857E /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3F5C403E2577C76100B29D1E /* LaunchScreen.storyboard in Resources */,
-				3F5C403B2577C76100B29D1E /* Assets.xcassets in Resources */,
-				3F5C40392577C75D00B29D1E /* Main.storyboard in Resources */,
+				3F659123257B6F730077857E /* LaunchScreen.storyboard in Resources */,
+				3F659120257B6F730077857E /* Assets.xcassets in Resources */,
+				3F65911E257B6F710077857E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		3F5C402A2577C75D00B29D1E /* Sources */ = {
+		3F65910F257B6F710077857E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3F5C40362577C75D00B29D1E /* ViewController.swift in Sources */,
-				3F5C40322577C75D00B29D1E /* AppDelegate.swift in Sources */,
-				3F5C40342577C75D00B29D1E /* SceneDelegate.swift in Sources */,
+				3F65911B257B6F710077857E /* ViewController.swift in Sources */,
+				3F659117257B6F710077857E /* AppDelegate.swift in Sources */,
+				3F659119257B6F710077857E /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		3F5C40372577C75D00B29D1E /* Main.storyboard */ = {
+		3F65911C257B6F710077857E /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				3F5C40382577C75D00B29D1E /* Base */,
+				3F65911D257B6F710077857E /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		3F5C403C2577C76100B29D1E /* LaunchScreen.storyboard */ = {
+		3F659121257B6F730077857E /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				3F5C403D2577C76100B29D1E /* Base */,
+				3F659122257B6F730077857E /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -166,7 +165,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		3F5C40402577C76100B29D1E /* Debug */ = {
+		3F659125257B6F730077857E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -227,7 +226,7 @@
 			};
 			name = Debug;
 		};
-		3F5C40412577C76100B29D1E /* Release */ = {
+		3F659126257B6F730077857E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -282,36 +281,36 @@
 			};
 			name = Release;
 		};
-		3F5C40432577C76100B29D1E /* Debug */ = {
+		3F659128257B6F730077857E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = Davaleba/Info.plist;
+				INFOPLIST_FILE = NewTask/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = lado.Davaleba;
+				PRODUCT_BUNDLE_IDENTIFIER = lado.NewTask;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
-		3F5C40442577C76100B29D1E /* Release */ = {
+		3F659129257B6F730077857E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = Davaleba/Info.plist;
+				INFOPLIST_FILE = NewTask/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = lado.Davaleba;
+				PRODUCT_BUNDLE_IDENTIFIER = lado.NewTask;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -321,25 +320,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3F5C40292577C75D00B29D1E /* Build configuration list for PBXProject "Davaleba" */ = {
+		3F65910E257B6F710077857E /* Build configuration list for PBXProject "NewTask" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				3F5C40402577C76100B29D1E /* Debug */,
-				3F5C40412577C76100B29D1E /* Release */,
+				3F659125257B6F730077857E /* Debug */,
+				3F659126257B6F730077857E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3F5C40422577C76100B29D1E /* Build configuration list for PBXNativeTarget "Davaleba" */ = {
+		3F659127257B6F730077857E /* Build configuration list for PBXNativeTarget "NewTask" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				3F5C40432577C76100B29D1E /* Debug */,
-				3F5C40442577C76100B29D1E /* Release */,
+				3F659128257B6F730077857E /* Debug */,
+				3F659129257B6F730077857E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 3F5C40262577C75D00B29D1E /* Project object */;
+	rootObject = 3F65910B257B6F710077857E /* Project object */;
 }
